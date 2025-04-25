@@ -1,0 +1,5 @@
+Où trouver le code de l'ESI, le libellé de l'agence, le libellé de la direction et le code groupe ?
+A combien d'exemples de PDF a-t-on accès ? un maximum de tests c mieux
+Quelles informations on en extrait, sous quel format voulez-vous le livrable (appli graphique ou CLI) ?
+Sur quel systèmes d'exploitations ça devra tourner ?
+Est-ce qu'on peut être assuré que tous les PDF auront exactement la même disposition ???

@@ -1,0 +1,11 @@
+openpyxl
+pdf2image
+PyPDF2
+pypdfium2
+pytesseract
+PyMuPDF
+fitz
+pyinstaller
+ocrmypdf
+imutils
+opencv-python
